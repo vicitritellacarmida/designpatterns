@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.vicitritellacarmida.test.pattern.java8.ViciFactoryTest" duration-ms="90" started-at="2018-07-25T23:15:16Z" finished-at="2018-07-25T23:15:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="90" started-at="2018-07-25T23:15:16Z" finished-at="2018-07-25T23:15:16Z">
+      <class name="com.vicitritellacarmida.test.pattern.java8.ViciFactoryTest">
+        <test-method status="PASS" signature="createHomeComputer()[pri:0, instance:com.vicitritellacarmida.test.pattern.java8.ViciFactoryTest@13a57a3b]" test-instance-name="" name="createHomeComputer" duration-ms="77" started-at="2018-07-26T06:15:16Z" finished-at="2018-07-26T06:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createHomeComputer -->
+      </class> <!-- com.vicitritellacarmida.test.pattern.java8.ViciFactoryTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.vicitritellacarmida.test.pattern.java8.ViciFactoryTest -->
+</testng-results>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="java 8 deisgn patterns" verbose="1">
+    <test name="java 8 deisgn patterns" preserve-order="true">
+        <packages>
+      		<package name="com.vicitritellacarmida.java8.test.pattern.java8" />
+      		
+   		</packages>
+    </test>
+</suite>
